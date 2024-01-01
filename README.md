@@ -10,3 +10,4 @@ The ‘buy’ data is represented in binary:
 - 1 - customer did buy the product
 -	0 – customer did not buy the product
 
+tea
