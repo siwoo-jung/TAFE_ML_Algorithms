@@ -25,4 +25,10 @@ The ‘buy’ data is represented in binary:
 - 1 - customer did buy the product
 -	0 – customer did not buy the product
 
-tea
+The raw data file is located at [/TAFE_ML_Algorithms/dataset.csv](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/dataset.csv)
+
+## Python
+
+The python code is located at [/TAFE_ML_Algorithms/code_Siwoo_JUNG.ipynb](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/code_Siwoo_JUNG.ipynb)
+
+### 3. Final Evaluation
