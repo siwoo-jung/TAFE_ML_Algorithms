@@ -29,11 +29,11 @@ The raw data file is located at [/TAFE_ML_Algorithms/dataset.csv](https://github
 
 ## Python code
 
-The python code is located at [/TAFE_ML_Algorithms/code_Siwoo_JUNG.ipynb](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/code_Siwoo_JUNG.ipynb)
+The python code is located at [/TAFE_ML_Algorithms/code.ipynb](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/code.ipynb)
 
 ## Final report
 
-The final report addressing the whole chapters is located at [/TAFE_ML_Algorithms/report_Siwoo_JUNG.pdf](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/report_Siwoo_JUNG.pdf)
+The final report addressing the whole chapters is located at [/TAFE_ML_Algorithms/final_report.pdf](https://github.com/siwoo-jung/TAFE_ML_Algorithms/blob/main/final_report.pdf)
 
 ## Conclusion (brief)
 
