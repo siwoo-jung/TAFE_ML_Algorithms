@@ -37,7 +37,7 @@ The final report addressing the whole chapters is located at [/TAFE_ML_Algorithm
 
 ## Conclusion (brief)
 
-For all models, evaluation metrics, such as accuracy, precision, recall, F1 and ROC-AUC, were applied. Considering the problem, precision and recall were comparably more important. As shown in the below figure, random forest model outperformed in all metrics, followed by semi-supervised and unsupervised models. Considering the nature of each algorithm and the problem, supervised learning was expected to perform best in the first place. With the random forest model, the company will effectively distinguish potential loyal customers, and can plan business strategies accordingly.
+For all models, evaluation metrics, such as accuracy, precision, recall, F1 and ROC-AUC, were applied. Considering the given scenario, precision and recall were comparably more important. As shown in the below figure, random forest model outperformed in all metrics, followed by semi-supervised and unsupervised models. Considering the nature of each algorithm and the problem, supervised learning was expected to perform best in the first place. With the random forest model, the company will effectively distinguish potential loyal customers, and can plan business strategies accordingly.
 
 ![image](https://github.com/siwoo-jung/TAFE_ML_Algorithms/assets/142607954/8db0d43e-3954-4150-8c9a-990eaf9b0146)
 
