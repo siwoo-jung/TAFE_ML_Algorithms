@@ -5,7 +5,7 @@ In this project, **supervised learning**, **unsupervised learning** and **semi-s
 Features:
   - Data visualisation & pre-processing
   - **Random Forest** for supervised learning
-  - **K-means Clustring** for unsupervised learning
+  - **K-means Clustering** for unsupervised learning
   - **Label Propagation** for semi-supervised learning
   - Tuning hyperparameters including **GridSearchCV**
   - Evaluation of results with
